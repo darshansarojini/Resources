@@ -9,7 +9,7 @@ A curated list of resources for high-performance computing.
 ## Self-Paced Learning
 - [Programming in Python - Software Carpentry](https://swcarpentry.github.io/python-novice-inflammation/index.html)
 - [Plotting and Programming in Python - Software Carpentry](https://swcarpentry.github.io/python-novice-gapminder/)
-- [Basic Skills Github Repo page - GitHub](https://github.com/sdsc-hpc-training-org/basic_skills)
+- [Linux, Notebooks, Interactive Computing, and GitHub - San Diego Supercomputing Center](https://github.com/sdsc-hpc-training-org/basic_skills)
 - [The Unix Shell (~3hr review) - Software Carpentry](https://swcarpentry.github.io/shell-novice/)
 - [Version Control with Git (~4hr review) - Software Carpentry](https://swcarpentry.github.io/git-novice/index.html)
 
