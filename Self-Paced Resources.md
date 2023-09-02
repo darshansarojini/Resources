@@ -9,26 +9,24 @@ A curated list of resources for high performance computing.
 ## Self-Paced Learning
 
 - **Programming in Python**
-  - [Link](https://swcarpentry.github.io/python-novice-inflammation/index.html)
+  - [Software Carpentry](https://swcarpentry.github.io/python-novice-inflammation/index.html)
   
 - **Plotting and Programming in Python**
-  - [Link](https://swcarpentry.github.io/python-novice-gapminder/)
+  - [Software Carpentry](https://swcarpentry.github.io/python-novice-gapminder/)
   
-- **Basic Skills Github Repo page**
-  - [Link](https://github.com/sdsc-hpc-training-org/basic_skills)
-
-## Unix & Version Control
+- **Basic Skills: Linux, Jupyter Notebooks, Interactive Computing, GitHub**
+  - [San Diego Supercomputing Center (SDSC)](https://github.com/sdsc-hpc-training-org/basic_skills)
 
 - **The Unix Shell (~3hr review)**
-  - [Link](https://swcarpentry.github.io/shell-novice/)
+  - [Software Carpentry](https://swcarpentry.github.io/shell-novice/)
 
 - **Version Control with Git (~4hr review)**
-  - [Link](https://swcarpentry.github.io/git-novice/index.html)
+  - [Software Carpentry](https://swcarpentry.github.io/git-novice/index.html)
 
 ## Webinars
 
-- **Anvil Open OnDemand**
-  - [Link](https://www.rcac.purdue.edu/training/anvil-open-ondemand-101)
+- **Open OnDemand**
+  - [Purdue Anvil](https://www.rcac.purdue.edu/training/anvil-open-ondemand-101)
 
 - **Correctness by Construction: How Can We Build Better Software?**
-  - [Link](https://learning.acm.org/techtalks/correctnessconstruction)
+  - [ACM](https://learning.acm.org/techtalks/correctnessconstruction)
