@@ -1,6 +1,6 @@
-# High Performance Computing Resources
+# Basic Skills for High Performance Computing Resources
 
-A curated list of resources for high-performance computing.
+A curated list of resources for high-performance computing. This page lists basic skills
 
 ## Table of Contents
 - [Self-Paced Learning](#self-paced-learning)
@@ -15,4 +15,3 @@ A curated list of resources for high-performance computing.
 
 ## Webinars
 - [Anvil Open OnDemand - RCAC Purdue](https://www.rcac.purdue.edu/training/anvil-open-ondemand-101)
-- [Correctness by Construction: How Can We Build Better Software? - ACM Learning](https://learning.acm.org/techtalks/correctnessconstruction)
