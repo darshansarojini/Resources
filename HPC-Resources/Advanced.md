@@ -54,11 +54,11 @@
 - Tools and techniques for making efficient use of GPUs
 
 **GTC**  
-- [What the Profiler is Telling You: How to Get the Most Performance out of Your Hardware | NVIDIA On-Demand](https://www.nvidia.com/en-us/on-demand/session/gtcsj20-s22141/)
-- [CUDA Memory Management | NVIDIA On-Demand](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-cwes1175/)
-- [(1) Optimizing HPC simulation and visualization code using NVIDIA Nsight systems - YouTube](https://www.youtube.com/watch?v=UaFnnXH6U4E&t=9s)
-- [Master Common Optimization Patterns Efficiently with Nsight Profiling Tools | NVIDIA On-Demand](https://www.nvidia.com/en-us/on-demand/session/gtcspring23-DLIT51143/?ncid=em-even-124008-vt33)
-- [How to Understand and Optimize Shared Memory Accesses using Nsight Compute | NVIDIA On-Demand](https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s41723/)
+- [What the Profiler is Telling You: How to Get the Most Performance out of Your Hardware](https://www.nvidia.com/en-us/on-demand/session/gtcsj20-s22141/)
+- [CUDA Memory Management](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-cwes1175/)
+- [Optimizing HPC simulation and visualization code using NVIDIA Nsight systems](https://www.youtube.com/watch?v=UaFnnXH6U4E&t=9s)
+- [Master Common Optimization Patterns Efficiently with Nsight Profiling Tools](https://www.nvidia.com/en-us/on-demand/session/gtcspring23-DLIT51143/?ncid=em-even-124008-vt33)
+- [How to Understand and Optimize Shared Memory Accesses using Nsight Compute](https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s41723/)
 
 ### Tutorials
 - [Nsight](https://github.com/NVIDIA/nsight-training)
