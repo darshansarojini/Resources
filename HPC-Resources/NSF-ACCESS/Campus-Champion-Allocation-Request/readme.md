@@ -9,7 +9,6 @@ Campus Champions, through NSF ACCESS, have HPC allocations intended to allow res
 This page provides new campus champions with a tutorial on requesting an allocation and using it to help with campus researchers. 
 
 - [Create an ACCESS account](./../create-nsf-access-account.md/)
-- [Login to ACCESS](https://registry.access-ci.org/registry/)
 - [Request an allocation](./../allocation-request.md/)
   - For Campus Champions, the DISCOVER level is the most suitable one.
   - In step 5 -> 'Opportunity Questions' -> 2 Association with activities: check mark “Campus Champion” along with other relevant activities
