@@ -66,3 +66,7 @@ The first step is to create an ACCESS account.
         1. ACCESS Credits: DISCOVER level can request up to 1,500,000 credits
 
 ## Exchange for Credits on HPC Resource Providers
+
+Spend the credits with resource providers to get access to an HPC resource
+- [List of resource providers](https://allocations.access-ci.org/resources)
+- [Conversion rate](https://allocations.access-ci.org/exchange_calculator)
