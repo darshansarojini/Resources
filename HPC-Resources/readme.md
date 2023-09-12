@@ -4,4 +4,4 @@ This collection of resources aims to guide you through the world of High Perform
 
 ## [Basic](./Basic.md)
 ## [Advanced](./Advanced.md)
-
+## [AI and ML](./AI-ML.md)
