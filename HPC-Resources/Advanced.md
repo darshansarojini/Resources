@@ -46,6 +46,7 @@
     - Couple of case studies:
       - DNN training
       - Solve 2-D Laplace equation with iterative Jacobi solver
+     
 [NVIDIA Nsight Compute](https://www.youtube.com/watch?v=fsC3QeZHM1U)
   - Follow-up webinar on Nsight Compute
 
