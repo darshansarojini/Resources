@@ -9,11 +9,11 @@ Campus Champions, through NSF ACCESS, have HPC allocations intended to allow res
 This page provides new campus champions with a tutorial on requesting an allocation and using it to help with campus researchers. 
 
 - [Create an ACCESS account](./../create-nsf-access-account.md/)
-- [Request an allocation](./../allocation-request.md/)
+- [Request an allocation](./../allocation-request.md/) to get ACCESS credits
   - For Campus Champions, the DISCOVER level is the most suitable one.
   - In step 5 -> 'Opportunity Questions' -> 2 Association with activities: check mark “Campus Champion” along with other relevant activities
   - In step 5 -> 'Documents and Publications' -> Refer to the example campus champion allocation request written in an NSF template
     - [PDF](./Allocation-Request-Main-Document.pdf/)
     - [LaTex](./Allocation-Request-Main-Document.zip/)
-- Exchange for Credits on HPC Resource Providers
+- [Exchange ACCESS credits for time on HPC resource providers](./../exchange-credits.md/)
   - An example of resources a campus champion requested is [here](./Example-HPC-Resources.pdf/)
