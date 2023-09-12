@@ -4,7 +4,7 @@
     - [Please read this first](https://access-ci.atlassian.net/wiki/spaces/ACCESSdocumentation/pages/135954433/Get+started)
 - ACCESS credits are categorized by opportunity levels.
     - [ACCESS documentation](https://access-ci.atlassian.net/wiki/spaces/ACCESSdocumentation/pages/129142899/Prepare+requests)
-    - For Campus Champions, the DISCOVER level is the most suitable one.
+    - The 'Explore' and 'Discover' levels are best suited for new HPC users
 
 ### Steps:
 
@@ -19,7 +19,7 @@
         3. Keywords
     - **Opportunity Questions**
         1. Advisory review (yes/no)
-        2. Association with activities: check mark “Campus Champion” along with other relevant activities
+        2. Association with activities: check mark relevant activities
     - **Fields of Science**:
         - Add as many as necessary. E.g., I chose Science and Engineering Education.
     - **Related Personnel**:
@@ -31,7 +31,7 @@
         - Add as necessary.
     - **Documents and Publications**:
         - Three documents are required:
-            - Main document (2-page limit): Refer to the example campus champion allocation request written in an NSF template [PDF](./Allocation Request Main Document.pdf/)
+            - Main document (2-page limit)
             - PI CV (3-page limit)
             - Co-PI CV (3-page limit)
         - Optional documents:
