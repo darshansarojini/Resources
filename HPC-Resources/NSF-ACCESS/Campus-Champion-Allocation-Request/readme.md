@@ -13,7 +13,7 @@ For over 18 years, the Campus Champions have been building an ever-growing, dive
 Their community is bonded in the mission to facilitate computational and data-intensive research and help researchers find and use the technologies that best fit their needs at whatever scale necessary.
 
 - [Map of Champion Institutions](https://arcg.is/0f0vy5)
-- [National CyberInfrastructure Landscape](http://www.oscer.ou.edu/virtualresidency2023_talk_cilandscapesyssvctech_kellogg_20230627.pdf)
+- Presentation on national cyber infrastructure landscape [June 2023](http://www.oscer.ou.edu/virtualresidency2023_talk_cilandscapesyssvctech_kellogg_20230627.pdf)
 
 Campus Champions, through NSF ACCESS, have HPC allocations intended to allow researchers on their campus to quickly try out a cluster.
 
