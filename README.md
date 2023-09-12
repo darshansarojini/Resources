@@ -1,2 +1,4 @@
-# Beginner-HPC-Resources
-Curated resources related to high-performance computing (HPC) targeted at beginners
+Curated resources related to scientific computing.
+
+[HPC Resources](./HPC-Resources/)
+
