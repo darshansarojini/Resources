@@ -15,5 +15,5 @@ This page provides new campus champions with a tutorial on requesting an allocat
   - In step 5 -> 'Documents and Publications' -> Refer to the example campus champion allocation request written in an NSF template
     - [PDF](./Allocation-Request-Main-Document.pdf/)
     - [LaTex](./Allocation-Request-Main-Document.zip/)
-- [Exchange ACCESS credits for time on HPC resource providers](./../exchange-credits.md/)
+- [Exchange credits](./../exchange-credits.md/) for time on HPC resource providers
   - An example of resources a campus champion requested is [here](./Example-HPC-Resources.pdf/)
