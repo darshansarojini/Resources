@@ -6,12 +6,27 @@ A curated list of resources for high-performance computing. This page lists basi
 - [Self-Paced Learning](#self-paced-learning)
 - [Webinars](#webinars)
 
-## Self-Paced Learning
-- [Programming in Python - Software Carpentry](https://swcarpentry.github.io/python-novice-inflammation/index.html)
-- [Plotting and Programming in Python - Software Carpentry](https://swcarpentry.github.io/python-novice-gapminder/)
-- [Linux, Notebooks, Interactive Computing, and GitHub - San Diego Supercomputing Center](https://github.com/sdsc-hpc-training-org/basic_skills)
-- [The Unix Shell (~3hr review) - Software Carpentry](https://swcarpentry.github.io/shell-novice/)
-- [Version Control with Git (~4hr review) - Software Carpentry](https://swcarpentry.github.io/git-novice/index.html)
+## Python 
+### Tutorials
+- [Carpentries: Programming in Python](https://swcarpentry.github.io/python-novice-inflammation/index.html)
+- [Carpentries: Plotting and Programming in Python](https://swcarpentry.github.io/python-novice-gapminder/)
 
-## Webinars
-- [Anvil Open OnDemand - RCAC Purdue](https://www.rcac.purdue.edu/training/anvil-open-ondemand-101)
+## Unix Tutorials
+### Tutorials
+- [Carpentries: The Unix Shell (~3hr review) lesson](https://swcarpentry.github.io/shell-novice/)
+- [SDSC HPC Training: Basic Linux Skills](https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/basic_skills/basic_linux_skills)
+
+## Git Tutorials
+### Tutorials
+- [SDSC: HPC Training - Using GitHub](https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/basic_skills/using_github)
+- [Carpentries: Version Control with Git (~4hr review)](https://swcarpentry.github.io/git-novice/index.html)
+- [Writing and formatting Readme files on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+## C Tutorials
+### Tutorials
+- [First learn C](https://www.learn-c.org/)
+
+## Makefile Tutorials
+### Tutorials
+- [Learn MakeFile](https://makefiletutorial.com/)
+
