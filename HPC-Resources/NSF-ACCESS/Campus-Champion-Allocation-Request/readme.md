@@ -1,8 +1,19 @@
-# Campus Champion Allocation Request
+# What are Campus Champions?
 
-This page is specific to Campus Champions.
+Campus Champions are cyberinfrastructure professionals and are employees or affiliates of a college, university, or research institution, who help the institution’s community with computing and data-intensive research.
 
-The mission of the Campus Champions is to foster a dynamic environment for a diverse community of research computing and data professionals sharing knowledge and experience in digital research infrastructure.
+Champions help with research, education, scholarship, and/or creative activity, and help users to adopt advanced digital capabilities to improve, grow, and accelerate these achievements.
+
+Campus Champions include professional roles such as system administrators, outreach coordinators, research facilitators, engineers, researchers, students, and more, collectively strengthening cyberinfrastructure worldwide.
+
+## What do they do?
+
+For over 18 years, the Campus Champions have been building an ever-growing, diverse and multi-disciplinary, research computing-centric collection of knowledge in support of the national research community.
+
+Their community is bonded in the mission to facilitate computational and data-intensive research and help researchers find and use the technologies that best fit their needs at whatever scale necessary.
+
+- [Map of Champion Institutions](https://arcg.is/0f0vy5)
+- [National CyberInfrastructure Landscape](http://www.oscer.ou.edu/virtualresidency2023_talk_cilandscapesyssvctech_kellogg_20230627.pdf)
 
 Campus Champions, through NSF ACCESS, have HPC allocations intended to allow researchers on their campus to quickly try out a cluster.
 
