@@ -5,6 +5,9 @@ A curated list of resources for high-performance computing. This page lists basi
 ## Table of Contents
 - [Python](#python)
 - [Unix](#unix)
+- [Git](#git)
+- [C](#c)
+- [Makefile](#makefile)
 
 ## Python 
 ### Tutorials
