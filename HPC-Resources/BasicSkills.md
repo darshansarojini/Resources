@@ -3,8 +3,8 @@
 A curated list of resources for high-performance computing. This page lists basic skills
 
 ## Table of Contents
-- [Self-Paced Learning](#self-paced-learning)
-- [Webinars](#webinars)
+- [Python](#python)
+- [Unix](#unix)
 
 ## Python 
 ### Tutorials
