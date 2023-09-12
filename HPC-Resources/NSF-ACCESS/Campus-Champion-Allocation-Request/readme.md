@@ -12,6 +12,8 @@ This page provides new campus champions with a tutorial on requesting an allocat
 - [Login to ACCESS](https://registry.access-ci.org/registry/)
 - Request an allocation
   - For Campus Champions, the DISCOVER level is the most suitable one.
+  - In step 5 -> 'Opportunity Questions' -> 2 Association with activities: check mark “Campus Champion” along with other relevant activities
+  - In step 5 -> 'Documents and Publications' -> Refer to the example campus champion allocation request written in an NSF template [PDF](./Allocation Request Main Document.pdf/)
 - Exchange for Credits on HPC Resource Providers
   - An example resources of a campus champion is here
 
